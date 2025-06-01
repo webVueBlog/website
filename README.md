@@ -3,6 +3,9 @@
 > 基于Vue3+TypeScript+ChatGPT+Vite+pinia响应式企业官方网站，使用 [Vite](https://cn.vitejs.dev/) 脚手架搭建，
 > 使用 [Vue3](https://cn.vuejs.org/) 开发。
 
+
+![img.png](./img.png)
+
 ## 运行/启动
 
 ```bash
